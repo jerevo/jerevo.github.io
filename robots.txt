@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jerevo.github.io/sitemap/sitemap.sbK.gz
